@@ -18,7 +18,6 @@ const NavBar = () => (
        <li><Link to ="/countertops"> Countertops</Link></li> 
        <li><Link to ="/gallery"> Gallery</Link></li> 
     </ul>
-
     </div>
 )
 export default NavBar
